@@ -1,6 +1,6 @@
 # Morpion
 ## Description
-Create a game to train on React.js
+Create a game to train on React.js (Create React App).
 
 ## Technologies
 * Front-end language: JavaScript
